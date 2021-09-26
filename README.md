@@ -1,4 +1,4 @@
-[![Slam](https://upload.wikimedia.org/wikipedia/commons/0/0f/Doxi_Mirror_By_RexZeal.svg)](https://telegram.dog/cloudsmirror)
+[![Slam](https://upload.wikimedia.org/wikipedia/commons/0/0f/Doxi_Mirror_By_RexZeal.svg)](https://t.me/RexZeal)
 
 # Deepak Clouds Mirror
 ![GitHub Repo stars](https://img.shields.io/github/stars/blackdeep04/deepak-clouds-mirror?color=blue&style=flat)
