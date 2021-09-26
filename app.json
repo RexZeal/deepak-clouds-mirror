@@ -1,15 +1,15 @@
 {
     "name": "Deepak Clouds Mirror",
     "description": "A Telegram bot for all your mirror needs",
-    "logo": "https://imagetot.com/images/2021/06/17/d7e86862ce2686f4c6c6596bfa72785d.jpg",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Doxi_Mirror_By_RexZeal.svg",
     "keywords": [
       "bot",
       "telegram",
       "python"
     ],
-    "repository": "https://github.com/deepakcloudsoffical/deepak-clouds-mirror",
-    "website": "https://github.com/blackdeep04/deepak-clouds-mirror",
-    "success_url": "https://t.me/cloudsmirror",
+    "repository": "https://github.com/RexZeal/deepak-clouds-mirror",
+    "website": "https://doxi.dinu.workers.dev/0:/",
+    "success_url": "https://t.me/RexZeal",
     "stack": "container",
     "env": {
       "ENV": {
@@ -75,7 +75,7 @@
         "required": true
       },
       "UPSTREAM_REPO": {
-        "description": "Link for Bot Upstream Repo, If you want default update, Fill https://github.com/blackdeep04/deepak-clouds-mirror.",
+        "description": "Link for Bot Upstream Repo, If you want default update, Fill https://github.com/RexZeal/deepak-clouds-mirror.",
         "value": "https://github.com/blackdeep04/deepak-clouds-mirror",
         "required": true
       },
