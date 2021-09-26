@@ -1,6 +1,6 @@
 [![Slam](https://upload.wikimedia.org/wikipedia/commons/0/0f/Doxi_Mirror_By_RexZeal.svg)](https://t.me/RexZeal)
 
-# Deepak Clouds Mirror
+# Doxi Mirror
 ![GitHub Repo stars](https://img.shields.io/github/stars/blackdeep04/deepak-clouds-mirror?color=blue&style=flat)
 ![GitHub forks](https://img.shields.io/github/forks/blackdeep04/deepak-clouds-mirror?color=green&style=flat)
 ![GitHub issues](https://img.shields.io/github/issues/blackdeep04/deepak-clouds-mirror/deepak-clouds-mirror)
