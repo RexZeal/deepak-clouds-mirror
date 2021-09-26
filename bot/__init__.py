@@ -288,9 +288,9 @@ except KeyError:
 try:
     IMAGE_URL = getConfig('IMAGE_URL')
     if len(IMAGE_URL) == 0:
-        IMAGE_URL = 'https://imagetot.com/images/2021/06/28/e8155fe3d87a1084d7cda5f4ecc5211c.jpg'
+        IMAGE_URL = 'https://upload.wikimedia.org/wikipedia/commons/0/0f/Doxi_Mirror_By_RexZeal.svg'
 except KeyError:
-    IMAGE_URL = 'https://imagetot.com/images/2021/06/28/e8155fe3d87a1084d7cda5f4ecc5211c.jpg'
+    IMAGE_URL = 'https://upload.wikimedia.org/wikipedia/commons/0/0f/Doxi_Mirror_By_RexZeal.svg'
 
 IGNORE_PENDING_REQUESTS = False
 try:
