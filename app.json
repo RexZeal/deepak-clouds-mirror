@@ -1,5 +1,5 @@
 {
-    "name": "Deepak Clouds Mirror",
+    "name": "Doxi Mirror",
     "description": "A Telegram bot for all your mirror needs",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Doxi_Mirror_By_RexZeal.svg",
     "keywords": [
@@ -8,7 +8,7 @@
       "python"
     ],
     "repository": "https://github.com/RexZeal/deepak-clouds-mirror",
-    "website": "https://doxi.dinu.workers.dev/0:/",
+    "website": "https://t.me/RexZeal",
     "success_url": "https://t.me/RexZeal",
     "stack": "container",
     "env": {
